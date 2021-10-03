@@ -1,0 +1,2 @@
+# Using Dynamic Mode Decomposition on Videos
+We used Dynamic Mode Decomposition in order to separate the foreground and background of twogiven videos. One video is of cars racing on a track, and the other is of a skier going down a mountain.Using DMD, we are able to get a clean separation such that we will have created a video of only theforeground and a video of only the background for each video.
