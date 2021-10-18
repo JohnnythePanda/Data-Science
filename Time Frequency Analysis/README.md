@@ -1,4 +1,5 @@
-# Time Frequency Analysis
+# Time Frequency Analysis of Underwater Submarine
+
 We performed time-frequency analysis on noisy acoustic data from the Puget Sound to detect a
 moving submarine emitting an unknown frequency with algorithms emphasizing the Fourier Transform.
 We analyzed the data by averaging the spectrum of raw acoustic data which allows us to identify it’s
